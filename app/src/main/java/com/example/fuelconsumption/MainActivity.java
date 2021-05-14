@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
                     mTextViewResult.setText(String.valueOf(dec.format(res) + " L/100km"));
                     /*
-                    asd
+                    asd1
                      */
             }
         });
