@@ -37,7 +37,9 @@ public class MainActivity extends AppCompatActivity {
                     DecimalFormat dec = new DecimalFormat("#0.00");
 
                     mTextViewResult.setText(String.valueOf(dec.format(res) + " L/100km"));
-
+                    /*
+                    asd
+                     */
             }
         });
     }
